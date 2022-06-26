@@ -16,11 +16,11 @@ sections:
 - type: document
   path: content/data/authors.json
   label: Author List
+- type: heading
+  label: Config
 - type: document
   path: content/data/info.json
   label: Info Page
-- type: heading
-  label: Config
 - type: document
   path: content/data/config.json
   label: Site Info
